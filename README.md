@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/poojasingh2429/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
@@ -23,4 +24,12 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/3201-distribute-candies-among-children-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/poojasingh2429/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/poojasingh2429/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
