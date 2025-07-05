@@ -12,6 +12,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/poojasingh2429/DSAPractice/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/poojasingh2429/DSAPractice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/poojasingh2429/DSAPractice/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/poojasingh2429/DSAPractice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
 | ------- |
