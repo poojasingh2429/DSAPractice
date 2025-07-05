@@ -9,6 +9,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/poojasingh2429/DSAPractice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/poojasingh2429/DSAPractice/tree/master/0907-koko-eating-bananas) |
@@ -21,6 +22,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/poojasingh2429/DSAPractice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/poojasingh2429/DSAPractice/tree/master/0907-koko-eating-bananas) |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/poojasingh2429/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasingh2429/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
