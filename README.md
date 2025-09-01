@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/poojasingh2429/DSAPractice/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/poojasingh2429/DSAPractice/tree/master/0645-set-mismatch) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/poojasingh2429/DSAPractice/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/poojasingh2429/DSAPractice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -67,8 +68,14 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/poojasingh2429/DSAPractice/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/poojasingh2429/DSAPractice/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojasingh2429/DSAPractice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/poojasingh2429/DSAPractice/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/poojasingh2429/DSAPractice/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
